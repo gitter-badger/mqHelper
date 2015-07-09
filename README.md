@@ -1,6 +1,8 @@
 mqHelper
 ========
 
+[![Join the chat at https://gitter.im/DaveKin/mqHelper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DaveKin/mqHelper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A work in progress to handle media queries in css files. 
 Trying to group similar media queries without altering the meaning of the css.
 
